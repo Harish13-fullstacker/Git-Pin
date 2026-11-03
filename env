@@ -1,0 +1,17 @@
+# ---------- Server ----------
+PORT=3000
+
+# ---------- Google OAuth (Google Cloud Console -> Credentials) ----------
+GOOGLE_CLIENT_ID=251529188045-qkboudmv8iusmbc41bhkam59vkifnoll.apps.googleusercontent.com
+
+# ---------- GitHub ----------
+# Fine-grained token: only this repo, Contents -> Read and write
+GITHUB_TOKEN=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
+GITHUB_OWNER=Harish13-fullstacker
+GITHUB_REPO=Images1
+
+# ---------- Branches ----------
+BRANCH_IMAGES=main
+BRANCH_DOCS=docs
+BRANCH_PDF=pdf
+BRANCH_PPT=ppt
